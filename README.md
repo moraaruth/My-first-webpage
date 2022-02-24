@@ -1,6 +1,8 @@
 # My-first-webpage
 ### By Ruth Moraa
-## This my first webpage to coding.This is to help me understand headings, fonts on my documents, how to add images and create a responsive website.
+
+ This my first webpage to coding.This is to help me understand headings, fonts on my documents, how to add images and create a responsive website.
+
 ### Table of COntents
   <li>Introduction</li>
   <li>Links in html</li>
