@@ -5,6 +5,7 @@
   <li>Introduction</li>
   <li>Links in html</li>
   <li>Adding images to my page</li>
+  
 ### Installation requirements
     Computer
     Stable internet.
